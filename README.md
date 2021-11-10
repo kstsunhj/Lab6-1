@@ -4,8 +4,8 @@
 ## Author
 Team | GitHub | Student ID | Your name
   :---: | :---: | :---: | :---: 
-TeamTA | `andykuo8766` | `Andy` | andykuo8766@gapp.nthu.edu.tw 
+TeamTA | `andykuo8766` | 109062578 | `Andy`
 
 Team | GitHub | Student ID | Your name
   :---: | :---: | :---: | :---: 
-TeamTA | `andykuo8766` | `Andy` | andykuo8766@gapp.nthu.edu.tw 
+TeamTA | `andykuo8766` | 109062578 | `Andy`
