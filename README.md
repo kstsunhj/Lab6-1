@@ -4,8 +4,8 @@
 ## Author
 Team | GitHub | Student ID | Your name
   :---: | :---: | :---: | :---: 
-TeamTA | `andykuo8766` | 109062578 | `Andy`
+Team7 | `Sheng-Ping` | 110062507 | `Sheng-Ping Lai`
 
 Team | GitHub | Student ID | Your name
   :---: | :---: | :---: | :---: 
-TeamTA | `andykuo8766` | 109062578 | `Andy`
+Team7 | `Airey742695` | 109062581 | `KAI-Ting`
